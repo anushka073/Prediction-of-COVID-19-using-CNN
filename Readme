@@ -1,4 +1,4 @@
-# 🩺 COVID-19 Detection from Chest X-ray Images using CNN
+### 🩺 COVID-19 Detection from Chest X-ray Images using CNN
 
 This project aims to detect COVID-19 infection by analyzing chest X-ray images using a Convolutional Neural Network (CNN) built from scratch with **TensorFlow 2.0** and **Keras**. It demonstrates how deep learning can support rapid and accurate diagnosis in healthcare.
 
