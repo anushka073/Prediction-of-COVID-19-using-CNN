@@ -62,11 +62,11 @@ To run this project locally:
 
 1. Install the necessary Python packages:
 
-```bash
-pip install numpy
-pip install pandas
-pip install tensorflow
-```
+    ```bash
+    pip install numpy
+    pip install pandas
+    pip install tensorflow
+    ```
 
 2. Clone or download this project.
 
@@ -95,6 +95,3 @@ Alternatively, if you’re familiar with Git, you can clone the repository:
 
 ```bash
 git clone <repo-link>
-```
-
----
